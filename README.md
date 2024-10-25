@@ -22,7 +22,7 @@ URL : https://store.steampowered.com/app/1510950/NKODICE/
 porosuke3070  
 改編した場合、Xにて @Porosuke3070 に報告していただけると喜びます。  
 *例のバージョンもあります*  
-URL :   
+URL : https://github.com/porosuke/NKODICE.git  
 
 # Licence
 MIT  
